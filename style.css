@@ -10,8 +10,8 @@
       --danger: #e53935;
       --gradient-bg: linear-gradient(135deg, #667eea 0%, hsl(154.2,38.2%,40.6%) 100%);
       --card-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-      --glass-bg: rgba(255, 255, 255, 0.1);
-      --glass-border: rgba(255, 255, 255, 0.2);
+      --glass-bg: #4763be;
+      --glass-border: #27b2a8;
     }
     
     * {
